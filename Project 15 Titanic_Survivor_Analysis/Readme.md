@@ -10,10 +10,10 @@ So, using Python (Pandas, Seaborn, Matplotlib), I asked:
 
 🔍 Key Insights from My Analysis
 
-✅ Gender – Women had significantly higher survival rates than men.
-✅ Passenger Class – 1st class passengers had far better survival chances compared to 3rd class.
-✅ Age Factor – Children had slightly better odds than adults, but overall, age was less decisive than class or gender.
-✅ Fare & Wealth – Passengers with higher ticket fares tended to survive more, showing how privilege played a role even in tragedy.
+* ✅ Gender – Women had significantly higher survival rates than men.
+* ✅ Passenger Class – 1st class passengers had far better survival chances compared to 3rd class.
+* ✅ Age Factor – Children had slightly better odds than adults, but overall, age was less decisive than class or gender.
+* ✅ Fare & Wealth – Passengers with higher ticket fares tended to survive more, showing how privilege played a role even in tragedy.
 
 🛠 Tools & Techniques
 
