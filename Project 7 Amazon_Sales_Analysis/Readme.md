@@ -14,7 +14,6 @@ Every dataset tells a story. Mine began with cleaning messy columns like ‘New�
 * 📦 Fulfilment & Shipping: Amazon itself is the leading fulfilment channel, with courier shipping being the go-to method.
 * 🏷 Category Insights: T-shirts emerged as the undisputed leader in purchases.
 * 🛍 Buyer Type: A whopping 99.3% of buyers were retailers vs. B2B businesses.
-*
 * 🗺 Geography: Maharashtra topped the charts with the highest number of customers.
 
 💡 The Takeaway
