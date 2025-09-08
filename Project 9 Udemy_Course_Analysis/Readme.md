@@ -3,8 +3,11 @@
 We all know Udemy as a go-to platform for online learning.
 
 But behind the scenes, I wanted to uncover:
+
 👉 Which subjects dominate the platform?
+
 👉 Do free courses actually attract more learners?
+
 👉 What makes a course "best-selling"?
 
 So, I dove into a dataset of Udemy courses using Python (Pandas, Matplotlib, Seaborn) — and here’s what I discovered:
