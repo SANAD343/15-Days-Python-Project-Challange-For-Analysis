@@ -1,6 +1,6 @@
-🚀 Python Data Analyst Project - 1/15
+# 🚀 Python Data Analyst Project - 1/15
 
-Dataset: Ecommerce Purchases (Kaggle)
+# Dataset: Ecommerce Purchases (Kaggle)
 
 I’ve just kicked off my 15 Python Data Analysis Projects challenge, and the first one is all about Ecommerce Purchases Analysis 📊.
 
