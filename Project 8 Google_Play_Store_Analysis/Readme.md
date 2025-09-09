@@ -1,4 +1,4 @@
-# 🐍 Python Data Analyst Project – 8/30
+# 🐍 Python Data Analyst Project – 8/15
 # Google Play Store Apps Analysis 📱✨
 
 Have you ever wondered what makes an app successful on the Google Play Store? 🌍
