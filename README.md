@@ -39,7 +39,16 @@ Each project demonstrates how raw data can be transformed into actionable insigh
 | 4    | Police Vehicle Checking Dataset Analysis | Kaggle                | Traffic stops, violations & demographic patterns  |
 | 5    | Netflix TV Shows & Movies Analysis       | Flixable (via Kaggle) | Content trends, categories & regional insights    |
 | 6    | San Francisco Employee Salary Analysis   | Kaggle                | Salary transparency, pay structures & disparities |
-| 7–15 | Coming Soon 🚀                           | -                     | -                                                 |
+| 7    | Amazon Sales Analysis                    | Kaggle                | Sales data, avg sale insights                     |
+| 8    | Google Playstore Apps Analysis           | Kaggle                | Ratings, Downloads, trend, digital trend          |
+| 9    | Udemy Courses Analysis                   |  Flixable (via Kaggle)| Course type, sales rating, course rating          |
+| 10   |  YouTube Channels Analysis               | Kaggle                | Subscribers rate, Audience, Views, rating         |
+| 11   | Heart Disease Dataset Analysis           | Kaggle                |  Age, Gender, Blood Pressure, Cholestrol          |
+| 12   |  IMDB Movie Dataset (2006–2016) Analysis | IMDB Website & Kaggle | Revenue, Genre, Years of release                  | 
+| 13   |  Adult Demographics & Income Analysis    | Kaggle                | Policy-makers, Educations, Gender, Income         |
+| 14   |  Job & Salary Analysis in Data Science   | Kaggle                | Job role, Company size, Location                  |
+| 15   | Titanic Survivor Analysis                | Kaggle                | Gender, Survivor Rate, Class, Fare Distributions  |
+
 
 
 📌 Typical Workflow (per project)
